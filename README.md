@@ -3,7 +3,7 @@ This project is an interactive Sales Performance Dashboard built using Advanced 
 
 The dashboard provides a 360-degree view of business performance, enabling stakeholders to track revenue trends, product-wise sales, regional performance, and individual salesperson contributions in a single dynamic view.
 
-🔍 What this dashboard shows
+🔍 **What this dashboard shows**
 
 Product-wise sales (Laptop, Mobile, Tablet)
 
@@ -19,7 +19,7 @@ Monthly and regional sales trends
 
 All visuals are connected using slicers and pivot controls, allowing users to filter data dynamically and analyze any segment in seconds.
 
-🛠 Tools & Techniques Used
+🛠 **Tools & Techniques Used**
 
 Microsoft Excel
 
@@ -33,7 +33,7 @@ Data Cleaning & Structuring
 
 Dashboard Design & Data Visualization
 
-📈 Business Value
+📈 **Business Value**
 
 This dashboard helps organizations:
 
@@ -45,6 +45,6 @@ Monitor sales growth trends
 
 Make data-driven decisions to increase revenue and optimize strategy
 
-🧠 Why this project matters
+🧠 **Why this project matters**
 
 It demonstrates strong skills in data analysis, business intelligence, and dashboard design, transforming raw sales data into actionable insights through clear and interactive visualizations.
