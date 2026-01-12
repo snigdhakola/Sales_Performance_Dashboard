@@ -1,5 +1,4 @@
-📊 **Sales Performance Dashboard – Advanced Excel
-**
+📊 **Sales Performance Dashboard – Advanced Excel**
 This project is an interactive Sales Performance Dashboard built using Advanced Microsoft Excel to analyze and visualize sales data across products, cities, discounts, and sales personnel.
 
 The dashboard provides a 360-degree view of business performance, enabling stakeholders to track revenue trends, product-wise sales, regional performance, and individual salesperson contributions in a single dynamic view.
